@@ -54,3 +54,10 @@ cd opt/cf
 D.最后  直接运行 bash cf.sh
 
 ![uAxv8koPchRfSY9Xe4j3lf2XIikKGdxx.webp](https://cdn.nodeimage.com/i/uAxv8koPchRfSY9Xe4j3lf2XIikKGdxx.webp)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+## armv7 32bit 玩客云旁路由定时扫ipv6上传帮定cf域名，成为优选域名每三小时执行一次。
+
+文件在ipv6夹中
