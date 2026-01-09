@@ -1,5 +1,6 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/dj56959566/cftest/blob/main/photo_2025-10-30_16-03-29.jpg?raw=true)
 
+# * 软路由里跑 openwrt V2.0版升级了许多小功能可以测试。
 
  # 1.armv7 32bit 旁路由 玩克云 实战 ipv4优先ip自定义邦定域名，成为优选域名每四小时执行一次。
 
