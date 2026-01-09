@@ -28,9 +28,9 @@ TEMP_EXISTING_IPS="$WORK_DIR/existing_ips.txt"   # 格式：ID IP
 TEMP_CHECK_IPS="$WORK_DIR/check_ips.txt"
 
 # ===== Cloudflare 认证信息 =====
-CF_API_TOKEN="f9uX54FayzaQYNd8KlLef1vO66s1QX0MH2jICpU5"     # Cloudflare API Token
-CF_ZONE_ID="0fca3e58687f3b3eb2772c56712a4113"         # Zone ID
-CF_RECORD_NAME="ip.eee.xx.kg"                # 目标 DNS 记录
+CF_API_TOKEN="f9uX54FayzaQYNd8KlLef1vO66s1QX0MH2jIC5"     # Cloudflare API Token
+CF_ZONE_ID="0fca3e58687f3b3eb2772c56712a41"         # Zone ID
+CF_RECORD_NAME="ip.eee.xx.com"                # 目标 DNS 记录
 
 # ===== 自建微信推送配置（可选，不用就留空）=====
 WECHAT_API_URL=""               # 例如：https://域名/wxsend
