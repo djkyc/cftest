@@ -37,8 +37,8 @@
 
 ```bash
 # Cloudflare API 认证
-CF_API_TOKEN="your_token"
-CF_ZONE_ID="your_zone_id"
+CF_API_TOKEN="your_token"  区域 ID
+CF_ZONE_ID="your_zone_id"  特定区域后面选上你要邦定的域名即可
 
 # 目标域名
 IPV4_RECORD_NAME="ipv4.example.com"
