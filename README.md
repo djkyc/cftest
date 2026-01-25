@@ -1,6 +1,8 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/dj56959566/cftest/blob/main/photo_2025-10-30_16-03-29.jpg?raw=true)
 
-# Cloudflare IPv4/IPv6 双栈优选脚本 3.0版
+# Cloudflare IPv4/IPv6 双栈优选脚本 3.0版  
+
+## 下载3.0cf.7z解压ssh登陆。把文件目录名改为cf直接放在root/目录下即可
 
 自动优选 Cloudflare IP 并更新 DNS 记录，支持 IPv4 和 IPv6 双栈。
 
